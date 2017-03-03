@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Jonathan/Desktop/School/16-17/Spring 2017/4630/selenium-server-standalone-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonathan/Desktop/School/16-17/Spring 2017/4630/lib/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonathan/Desktop/School/16-17/Spring 2017/4630/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonathan/Desktop/School/16-17/Spring 2017/4630/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonathan/Desktop/School/16-17/Spring 2017/4630/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonathan/Desktop/School/16-17/Spring 2017/4630/lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonathan/Desktop/School/16-17/Spring 2017/4630/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonathan/Desktop/School/16-17/Spring 2017/4630/lib/cssparser-0.9.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonathan/Desktop/School/16-17/Spring 2017/4630/lib/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonathan/Desktop/School/16-17/Spring 2017/4630/lib/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonathan/Desktop/School/16-17/Spring 2017/4630/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonathan/Desktop/School/16-17/Spring 2017/4630/lib/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonathan/Desktop/School/16-17/Spring 2017/4630/lib/htmlunit-2.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonathan/Desktop/School/16-17/Spring 2017/4630/lib/htmlunit-core-js-2.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonathan/Desktop/School/16-17/Spring 2017/4630/lib/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonathan/Desktop/School/16-17/Spring 2017/4630/lib/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonathan/Desktop/School/16-17/Spring 2017/4630/lib/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonathan/Desktop/School/16-17/Spring 2017/4630/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonathan/Desktop/School/16-17/Spring 2017/4630/lib/jetty-io-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonathan/Desktop/School/16-17/Spring 2017/4630/lib/jetty-util-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonathan/Desktop/School/16-17/Spring 2017/4630/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonathan/Desktop/School/16-17/Spring 2017/4630/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonathan/Desktop/School/16-17/Spring 2017/4630/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonathan/Desktop/School/16-17/Spring 2017/4630/lib/neko-htmlunit-2.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonathan/Desktop/School/16-17/Spring 2017/4630/lib/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonathan/Desktop/School/16-17/Spring 2017/4630/lib/phantomjsdriver-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonathan/Desktop/School/16-17/Spring 2017/4630/lib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonathan/Desktop/School/16-17/Spring 2017/4630/lib/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonathan/Desktop/School/16-17/Spring 2017/4630/lib/websocket-api-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonathan/Desktop/School/16-17/Spring 2017/4630/lib/websocket-client-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonathan/Desktop/School/16-17/Spring 2017/4630/lib/websocket-common-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonathan/Desktop/School/16-17/Spring 2017/4630/lib/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonathan/Desktop/School/16-17/Spring 2017/4630/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonathan/Desktop/School/16-17/Spring 2017/4630/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonathan/Desktop/School/16-17/Spring 2017/4630/eclipse/poi-3.16-beta2/poi-3.16-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonathan/Desktop/School/16-17/Spring 2017/4630/eclipse/poi-3.16-beta2/poi-examples-3.16-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonathan/Desktop/School/16-17/Spring 2017/4630/eclipse/poi-3.16-beta2/poi-excelant-3.16-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonathan/Desktop/School/16-17/Spring 2017/4630/eclipse/poi-3.16-beta2/poi-ooxml-3.16-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonathan/Desktop/School/16-17/Spring 2017/4630/eclipse/poi-3.16-beta2/poi-ooxml-schemas-3.16-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonathan/Desktop/School/16-17/Spring 2017/4630/eclipse/poi-3.16-beta2/poi-scratchpad-3.16-beta2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
